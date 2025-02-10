@@ -33,3 +33,11 @@ function scream(n){
 }
 
 console.log(scream(10));
+
+let agen = 22;
+
+if(agen < 21) {
+    console.log("You are not old enough to enter this club.");
+} else {
+    console.log("You are old enough to enter this club.");
+}
